@@ -1,6 +1,6 @@
-# 📰 Fake News Detection and Evaluation with Confusion Matrix
+#  Fake News Detection and Evaluation with Confusion Matrix
 
-## 📌 Project Overview
+##  Project Overview
 This project addresses the challenge of distinguishing **fake news** from **true news** using **machine learning techniques**. The classification model is trained on textual data, and its performance is evaluated using a **confusion matrix** and standard metrics like Accuracy, Precision, Recall, and F1 Score.
 
 The workflow includes:
@@ -11,7 +11,7 @@ The workflow includes:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset consists of:
 - **Fake news** articles (from unreliable sources verified by Politifact and Wikipedia)
 - **True news** articles (from Reuters.com)
@@ -23,19 +23,19 @@ Since the dataset files are large, they are available via **Google Drive**:
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 Watch the 2-minute project demo here:  
 [Demo Video Link](https://drive.google.com/file/d/1XCH6SVHDqg7UVKfAdPipgl-bzyOdXNWd/view?usp=sharing)
 
 ---
 
-## 💻 Google Colab Notebook
+##  Google Colab Notebook
 You can run the project directly in Google Colab using this link:  
 [Open Notebook in Colab](https://colab.research.google.com/drive/1DqlAWnvfa3LMxXkKF0-FWRIRQ-q7gCrq?usp=sharing)
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas, NumPy (data handling)
 - Matplotlib, Seaborn (visualization)
