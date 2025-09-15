@@ -47,4 +47,5 @@ You can run the project directly in Google Colab using this link:
 
 ## 📌 Author
 Created by **Suprava Das**
+
 Completed by Asmita Dey
